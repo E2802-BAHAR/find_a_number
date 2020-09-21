@@ -51,8 +51,7 @@ document.getElementById("rstbtn").addEventListener("click",
         document.getElementById("output").innerHTML = "You stopped game";
         document.getElementById("text_number").innerHTML = "If you want to play again enter a number";
 
-<<<<<<< HEAD
-    });
-=======
-    });
->>>>>>> fdc6af3e557459c6e6de70e35972cfb71c8a5f9c
+
+  });
+
+
