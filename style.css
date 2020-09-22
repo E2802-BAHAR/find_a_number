@@ -325,5 +325,10 @@ svg {
         border-radius: 5px;
     }
     svg {
-        width: 50%;
+        width: 80%;
+    }
+    #btn::hover {
+        border: 3px solid red;
+        box-shadow: 5px gray;
+        color: gray;
     }
